@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Ogechi Personal site</title>
+</head>
+
+<body>
+  <table cellspacing="25">
+    <tr>
+    <td><img src="1637320761297.jpg" alt="Ogechi Profile Picture"/></td>
+    <td>
+      <h3> Ogechi Ogbonnaya</h3>
+      <p><em>Founder and CEO <strong> <a href="https://www.remita.net/"> Kavodella </a></strong></em></p>
+      <p>I am an IOS and web developer. I love💖 technology</p>
+    </td>
+    </tr>
+  </table>
+<hr/>
+<h2> Services </h2>
+<ul>
+  <li> Event Management  </li>
+  <li> Asoebi Management </li>
+  <li> Consultation </li>
+  <li> Front End Development </li>
+  <li><a href="https://www.youtube.com/watch?v=EN6jtHIqeTg"> Fashion Designing </a>  </li>
+</ul>
+<h3> Work Experience </h3>
+
+<table  border="5" cellspacing="10">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Work Experience </th>
+    </tr>
+  </thead>
+  <tr>
+    <td>2020 - Present</td>
+    <td>
+      Customer Support Representative
+    </td>
+  </tr>
+  <tr>
+    <td>2017 -2109 </td>
+    <td> Commercial Training Executive </td>
+  </tr>
+</table cellspacing="10">
+<p>
+  <h4> What God Cannot Do Does not Exist</h4>
+  <table cellspacing="10">
+    <tr>
+      <td>Thank  Jesus</td>
+      <td> For your Mercies</td>
+      <td> Kindness</td>
+    </tr>
+    <tr>
+      <td>Love</td>
+      <td>Grace</td>
+      <td>Mercy</td>
+    </tr>
+  </table cellspacing="10">
+</p>
+<h3> Skills</h3>
+<table>
+  <tr>
+    <td>
+
+    <table cellspacing="10"border="7">
+      <tr>
+        <td>Business Devlopment ⭐⭐⭐</td>
+        <td>Event Management ⭐⭐⭐⭐⭐  </td>
+
+      </tr>
+      <tr> <td>Front end engineering ⭐⭐⭐</td> <td> Excellent communication ⭐⭐⭐⭐⭐⭐</td></tr>
+      <tr> <td>IOS Development ⭐⭐</td> <td> Relation Management ⭐⭐⭐⭐⭐</td></tr>
+    </table></td>
+  </tr> </table cellspacing="10">
+
+
+
+<p>
+<a herf="hobbies.html"> My Hobbies </a> </p>
+
+<footer>
+   <a href="file:///C:/Users/OGECHI/Desktop/Web%20Development1/Contact%20me.html"> My Contact </a>
+</footer>
+
+
+</body>
+
+</html>
